@@ -1,0 +1,1 @@
+Confirmo que leí y entiendo que no debo hacer commits directos a main/master y que todo cambio debe ir por Pull Request.
