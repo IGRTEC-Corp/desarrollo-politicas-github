@@ -2,11 +2,11 @@
 
 ## Datos del colaborador
 
-Nombre completo:
+Nombre completo: Shoeder Rojas Conde
 
-Usuario de GitHub:
+Usuario de GitHub: shoederrojas98
 
-Fecha:
+Fecha: 23 de junio de 2026
 
 ## Confirmación
 
